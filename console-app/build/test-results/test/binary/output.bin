@@ -1,0 +1,130 @@
+[;35;m(                                     |__
+[;35;m(                                     |\/
+[;35;m(                                     ---
+[;35;m*                                     / | [
+[;35;m*                              !      | |||
+[;35;m+                            _/|     _/|-++'
+[;35;m.                        +  +--|    |--|--|_ |-
+[;35;m1                     { /|__|  |/\__|  |--- |||__/
+[;35;mH                    +---------------___[}-_===_.'____                 /\
+[;35;mL                ____`-' ||___-{]_| _[}-  |     |_[___\==--            \/   _
+[;35;mN __..._____--==/___]_|__|_____________________________[___\==--____,------' .7
+[;35;mM|                        Welcome to Battleship                         BB-61/
+[;35;mL \_________________________________________________________________________|
+[;35;m
+[0;;m[0;;mIPlease position your fleet (Game board has size from A to H and 1 to 8) :
+[0;;m
+[0;;m=Please enter the positions for the Aircraft Carrier (size: 5)
+[0;;mEnter position 1 of 5 (i.e A3):
+[0;;mEnter position 2 of 5 (i.e A3):
+[0;;mEnter position 3 of 5 (i.e A3):
+[0;;mEnter position 4 of 5 (i.e A3):
+[0;;mEnter position 5 of 5 (i.e A3):
+[0;;m
+[0;;m7Please enter the positions for the Battleship (size: 4)
+[0;;mEnter position 1 of 4 (i.e A3):
+[0;;mEnter position 2 of 4 (i.e A3):
+[0;;mEnter position 3 of 4 (i.e A3):
+[0;;mEnter position 4 of 4 (i.e A3):
+[0;;m
+[0;;m6Please enter the positions for the Submarine (size: 3)
+[0;;mEnter position 1 of 3 (i.e A3):
+[0;;mEnter position 2 of 3 (i.e A3):
+[0;;mEnter position 3 of 3 (i.e A3):
+[0;;m
+[0;;m6Please enter the positions for the Destroyer (size: 3)
+[0;;mEnter position 1 of 3 (i.e A3):
+[0;;mEnter position 2 of 3 (i.e A3):
+[0;;mEnter position 3 of 3 (i.e A3):
+[0;;m
+[0;;m8Please enter the positions for the Patrol Boat (size: 2)
+[0;;mEnter position 1 of 2 (i.e A3):
+[0;;mEnter position 2 of 2 (i.e A3):
+[0;;m[2J[;H[0;;m                  __
+[0;;m                 /  \
+[0;;m           .-.  |    |
+[0;;m   *    _.-'  \  \__/
+[0;;m    \.-'       \
+[0;;m   /          _/
+[0;;m  |      _  /" "
+[0;;m  |     /_'
+[0;;m   \    \_/
+[0;;m    " "" "" "" "
+[0;;m
+[0;;mPlayer, it's your turn
+[0;;m!Enter coordinates for your shot :
+[0;;mMiss
+[0;;m
+[0;;mComputer shoot in B6 and miss
+[0;;m
+[0;;mPlayer, it's your turn
+[0;;m!Enter coordinates for your shot :
+[;35;m(                                     |__
+[;35;m(                                     |\/
+[;35;m(                                     ---
+[;35;m*                                     / | [
+[;35;m*                              !      | |||
+[;35;m+                            _/|     _/|-++'
+[;35;m.                        +  +--|    |--|--|_ |-
+[;35;m1                     { /|__|  |/\__|  |--- |||__/
+[;35;mH                    +---------------___[}-_===_.'____                 /\
+[;35;mL                ____`-' ||___-{]_| _[}-  |     |_[___\==--            \/   _
+[;35;mN __..._____--==/___]_|__|_____________________________[___\==--____,------' .7
+[;35;mM|                        Welcome to Battleship                         BB-61/
+[;35;mL \_________________________________________________________________________|
+[;35;m
+[0;;m[0;;mIPlease position your fleet (Game board has size from A to H and 1 to 8) :
+[0;;m
+[0;;m=Please enter the positions for the Aircraft Carrier (size: 5)
+[0;;mEnter position 1 of 5 (i.e A3):
+[0;;mEnter position 2 of 5 (i.e A3):
+[0;;mEnter position 3 of 5 (i.e A3):
+[0;;mEnter position 4 of 5 (i.e A3):
+[0;;mEnter position 5 of 5 (i.e A3):
+[0;;m
+[0;;m7Please enter the positions for the Battleship (size: 4)
+[0;;mEnter position 1 of 4 (i.e A3):
+[0;;mEnter position 2 of 4 (i.e A3):
+[0;;mEnter position 3 of 4 (i.e A3):
+[0;;mEnter position 4 of 4 (i.e A3):
+[0;;m
+[0;;m6Please enter the positions for the Submarine (size: 3)
+[0;;mEnter position 1 of 3 (i.e A3):
+[0;;mEnter position 2 of 3 (i.e A3):
+[0;;mEnter position 3 of 3 (i.e A3):
+[0;;m
+[0;;m6Please enter the positions for the Destroyer (size: 3)
+[0;;mEnter position 1 of 3 (i.e A3):
+[0;;mEnter position 2 of 3 (i.e A3):
+[0;;mEnter position 3 of 3 (i.e A3):
+[0;;m
+[0;;m8Please enter the positions for the Patrol Boat (size: 2)
+[0;;mEnter position 1 of 2 (i.e A3):
+[0;;mEnter position 2 of 2 (i.e A3):
+[0;;m[2J[;H[0;;m                  __
+[0;;m                 /  \
+[0;;m           .-.  |    |
+[0;;m   *    _.-'  \  \__/
+[0;;m    \.-'       \
+[0;;m   /          _/
+[0;;m  |      _  /" "
+[0;;m  |     /_'
+[0;;m   \    \_/
+[0;;m    " "" "" "" "
+[0;;m
+[0;;mPlayer, it's your turn
+[0;;m!Enter coordinates for your shot :
+[0;;m[0;;m                \         .  ./
+[0;;m'              \      .:" ";'.:.." "   /
+[0;;m"                  (M^^.^~~:.'" ").
+[0;;m$            -   (/  .    . . \ \)  -
+[0;;m"               ((| :. ~ ^  :. .|))
+[0;;m$            -   (\- |  \ /  |  /)  -
+[0;;m                  -\  \     /  /-
+[0;;m                   \  \   /  /
+[0;;mYeah ! Nice hit !
+[0;;m
+[0;;mComputer shoot in B6 and miss
+[0;;m
+[0;;mPlayer, it's your turn
+[0;;m!Enter coordinates for your shot :

@@ -62,7 +62,7 @@ public class GameControllerTest {
 
     @Test
     public void testIsShipValidFalse() {
-        Ship ship = new Ship("TestShip", 3);
+        Ship ship = new Ship("TestShip", 2);
         boolean result = GameController.isShipValid(ship);
 
         Assert.assertFalse(result);

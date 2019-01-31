@@ -26,4 +26,4 @@ console-app/build/
 game-controller/build/
 
 .gradle/
-.ieda/
+.idea/

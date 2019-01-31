@@ -11,3 +11,5 @@ script:
   - ./gradlew sonarqube   -Dsonar.projectKey=lorenzcheung_Battleship_Java   -Dsonar.organization=lorenzcheung-github   -Dsonar.host.url=https://sonarcloud.io   -Dsonar.login=e5ee2eb0fbfecabf52322bd7e5241216019892ad
 
 
+notifications:
+  slack: psdhk:lUVOpDG7b4yKHrlg5eLpBxXI

@@ -71,7 +71,7 @@ public class GameControllerTest {
     @Test
     public void testIsShipValidTrue() {
         List<Position> positions = Arrays.asList(new Position(Letter.A, 1), new Position(Letter.A, 1), new Position(Letter.A, 1));
-        Ship ship = new Ship("TestShip", 4, positions);
+        Ship ship = new Ship("TestShip", 3, positions);
 
         boolean result = GameController.isShipValid(ship);
 

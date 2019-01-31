@@ -1,7 +1,0 @@
-organization=lorenzcheung-github
-projectKey=lorenzcheung_Battleship_Java
-serverUrl=https://sonarcloud.io
-serverVersion=7.7.0.21605
-dashboardUrl=https://sonarcloud.io/dashboard?id=lorenzcheung_Battleship_Java
-ceTaskId=AWijSDOm49IDsqfZBvlv
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWijSDOm49IDsqfZBvlv

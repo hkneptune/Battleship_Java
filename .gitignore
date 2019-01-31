@@ -27,3 +27,4 @@ game-controller/build/
 
 .gradle/
 .idea/
+build/

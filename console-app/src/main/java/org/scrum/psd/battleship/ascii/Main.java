@@ -108,8 +108,8 @@ public class Main {
     }
 
     private static Position getRandomPosition() {
-        int rows = 5;
-        int lines = 5;
+        int rows = 8;
+        int lines = 8;
         Random random = new Random();
         Letter letter = Letter.values()[random.nextInt(lines)];
         int number = random.nextInt(rows);

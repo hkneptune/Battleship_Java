@@ -2,14 +2,12 @@ language: java
 install: true
 install: gradle wrapper --gradle-version 4.2
 
-
 jdk:
   - oraclejdk8
 
 script:
   - ./gradlew build
-  - ./gradlew sonarqube   -Dsonar.projectKey=lorenzcheung_Battleship_Java   -Dsonar.organization=lorenzcheung-github   -Dsonar.host.url=https://sonarcloud.io   -Dsonar.login=e5ee2eb0fbfecabf52322bd7e5241216019892ad
-
+  - ./gradlew sonarqube -Dsonar.projectKey=hkneptune_Battleship_Java -Dsonar.organization=hkneptune-github -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=3318fae90bf0f6bc70e7a8fe6cfcb3283d23a182
 
 notifications:
-  slack: psdhk:lUVOpDG7b4yKHrlg5eLpBxXI
+  slack: psdhk:qaB5mYmOSZLvEZyDfxmNPyT7
